@@ -1,0 +1,24 @@
+[{	"brand":"Mockia",
+	"model":"5800",
+	"formFactor":"CANDYBAR",
+	"attributes":[
+		{"name":"Screen Size","value":"128mm"}
+	]},
+{	
+	"brand":"Phony",
+	"model":"X11",
+	"formFactor":"SMARTPHONE",
+	"attributes":[
+		{"name":"Bluetooth","value":"0.1"},
+		{"name":"Raspberry","value":"Pi"}
+	]},
+{
+	"brand":"Samwrong",
+	"model":"Universe A1",
+	"formFactor":"PHABLET",
+	"attributes":[
+		{"name":"Frequencies","value":"GSM,LTE,Kenneth"},
+		{"name":"Memory","value":"333Mb"},
+		{"name":"Teasmaid","value":"true"}
+	]}
+]
